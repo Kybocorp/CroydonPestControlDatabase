@@ -1,0 +1,2 @@
+﻿CREATE USER [LBS\TP_AAdel];
+
