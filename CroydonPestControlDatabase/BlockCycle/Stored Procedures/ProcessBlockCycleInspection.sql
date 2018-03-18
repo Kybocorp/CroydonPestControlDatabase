@@ -6,6 +6,8 @@ AS
 BEGIN TRY
     
     SELECT @InspectionId
+	FROM Inspection.Inspection
+	
     
 END TRY
 BEGIN CATCH

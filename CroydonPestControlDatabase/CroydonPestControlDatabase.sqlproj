@@ -365,7 +365,6 @@
     <Build Include="Security\LBS_TP_AAdel.sql" />
     <Build Include="Security\LBS_TP_MLozada.sql" />
     <Build Include="Security\Pest_Services.sql" />
-    <Build Include="Security\lbs_user.sql" />
     <Build Include="Security\LBS-MFS-01_SSRS_User.sql" />
     <Build Include="Security\RoleMemberships.sql" />
     <Build Include="dbo\Functions\SplitInts.sql">
